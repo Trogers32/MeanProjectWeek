@@ -10,4 +10,4 @@ while 1:
 
 
 
-# Check ChatterBotCorpusTrainer documentation
+# Check ChatterBotCorpusTrainer documentation 
