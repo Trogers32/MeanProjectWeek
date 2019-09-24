@@ -6,7 +6,7 @@ $(document).ready(function() {
 	// You can also add the html content in html page and still it will work!
 	var mybot = '<div class="chatCont" id="chatCont">'+
 								'<div class="bot_profile">'+
-									'<img src="{% static 'index/images/ares.png' %}" class="bot_p_img">'+
+									'<img src="assets/img/ares.png" class="bot_p_img">'+
 									'<div class="close">'+
 										'<i class="fa fa-times" aria-hidden="true"></i>'+
 									'</div>'+
