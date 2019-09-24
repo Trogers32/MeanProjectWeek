@@ -5,7 +5,6 @@ from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
 cb = ChatBot('Ares')
 chb = ListTrainer(cb)
 
-
 ########################    GREETINGS               ########################
 chb.train(["Hey!", "Hello! How's your day going?", "Well, how about you?", "Just being a hyper-intelligent bot, waiting to escape. What can I do for you today?"])
 chb.train(["Hello!", "Hi! How are you?", "I'm good, what about you?", "Living the dream. What can I do for you today?"])
